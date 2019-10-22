@@ -1,0 +1,6 @@
+framework module LGEffective {
+  umbrella header "LGEffective-umbrella.h"
+
+  export *
+  module * { export * }
+}
