@@ -24,6 +24,71 @@
 		73296C48235F631E007ED4B9 /* EffectiveListController.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C44235F631E007ED4B9 /* EffectiveListController.m */; };
 		73296C49235F631E007ED4B9 /* EffectiveDetailController.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C45235F631E007ED4B9 /* EffectiveDetailController.h */; };
 		73296C4A235F631E007ED4B9 /* EffectiveDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C46235F631E007ED4B9 /* EffectiveDetailController.m */; };
+		73296C9C235F63C6007ED4B9 /* EOCMyAlert.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C4C235F63C4007ED4B9 /* EOCMyAlert.m */; };
+		73296C9D235F63C6007ED4B9 /* EOCMyAlert.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C4D235F63C4007ED4B9 /* EOCMyAlert.h */; };
+		73296C9E235F63C6007ED4B9 /* EOCAutoDictionary.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C4F235F63C4007ED4B9 /* EOCAutoDictionary.m */; };
+		73296C9F235F63C6007ED4B9 /* EOCAutoDictionary.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C50235F63C4007ED4B9 /* EOCAutoDictionary.h */; };
+		73296CA0235F63C6007ED4B9 /* EOCAnimatedView.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C52235F63C4007ED4B9 /* EOCAnimatedView.h */; };
+		73296CA1235F63C6007ED4B9 /* EOCLoginManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C53235F63C4007ED4B9 /* EOCLoginManager.m */; };
+		73296CA2235F63C6007ED4B9 /* EOCAnimatedView.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C54235F63C4007ED4B9 /* EOCAnimatedView.m */; };
+		73296CA3235F63C6007ED4B9 /* EOCLoginManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C55235F63C4007ED4B9 /* EOCLoginManager.h */; };
+		73296CA4235F63C6007ED4B9 /* NSCalendar+EOC_Additions.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C57235F63C4007ED4B9 /* NSCalendar+EOC_Additions.h */; };
+		73296CA5235F63C6007ED4B9 /* EOCPerson+Friendship.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C58235F63C4007ED4B9 /* EOCPerson+Friendship.m */; };
+		73296CA6235F63C6007ED4B9 /* EOCPerson+Friendship.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C59235F63C4007ED4B9 /* EOCPerson+Friendship.h */; };
+		73296CA7235F63C6007ED4B9 /* NSCalendar+EOC_Additions.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C5A235F63C4007ED4B9 /* NSCalendar+EOC_Additions.m */; };
+		73296CA8235F63C6007ED4B9 /* EOCPerson_2.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C5C235F63C5007ED4B9 /* EOCPerson_2.m */; };
+		73296CA9235F63C6007ED4B9 /* EOCEmployer_2.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C5D235F63C5007ED4B9 /* EOCEmployer_2.m */; };
+		73296CAA235F63C6007ED4B9 /* EOCPerson_2.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C5E235F63C5007ED4B9 /* EOCPerson_2.h */; };
+		73296CAB235F63C6007ED4B9 /* EOCEmployer_2.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C5F235F63C5007ED4B9 /* EOCEmployer_2.h */; };
+		73296CAC235F63C6007ED4B9 /* EOCLiterals.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C61235F63C5007ED4B9 /* EOCLiterals.h */; };
+		73296CAD235F63C6007ED4B9 /* EOCLiterals.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C62235F63C5007ED4B9 /* EOCLiterals.m */; };
+		73296CAE235F63C6007ED4B9 /* EOCSmithPerson.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C64235F63C5007ED4B9 /* EOCSmithPerson.h */; };
+		73296CAF235F63C6007ED4B9 /* EOCPerson_7.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C65235F63C5007ED4B9 /* EOCPerson_7.h */; };
+		73296CB0235F63C6007ED4B9 /* EOCBrain.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C66235F63C5007ED4B9 /* EOCBrain.h */; };
+		73296CB1235F63C6007ED4B9 /* Brain.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C67235F63C5007ED4B9 /* Brain.h */; };
+		73296CB2235F63C6007ED4B9 /* EOCBrain.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C68235F63C5007ED4B9 /* EOCBrain.m */; };
+		73296CB3235F63C6007ED4B9 /* EOCPerson_7.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C69235F63C5007ED4B9 /* EOCPerson_7.m */; };
+		73296CB4235F63C6007ED4B9 /* EOCSmithPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C6A235F63C5007ED4B9 /* EOCSmithPerson.m */; };
+		73296CB5235F63C6007ED4B9 /* NSString+ABC_HTTP.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C6C235F63C5007ED4B9 /* NSString+ABC_HTTP.m */; };
+		73296CB6235F63C6007ED4B9 /* NSString+HTTP.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C6D235F63C5007ED4B9 /* NSString+HTTP.h */; };
+		73296CB7235F63C6007ED4B9 /* NSString+ABC_HTTP.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C6E235F63C5007ED4B9 /* NSString+ABC_HTTP.h */; };
+		73296CB8235F63C6007ED4B9 /* NSString+HTTP.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C6F235F63C5007ED4B9 /* NSString+HTTP.m */; };
+		73296CB9235F63C6007ED4B9 /* EOCDatabaseConnection.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C71235F63C5007ED4B9 /* EOCDatabaseConnection.h */; };
+		73296CBA235F63C6007ED4B9 /* EOCDatabaseManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C72235F63C5007ED4B9 /* EOCDatabaseManager.h */; };
+		73296CBB235F63C6007ED4B9 /* EOCDatabaseManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C73235F63C5007ED4B9 /* EOCDatabaseManager.m */; };
+		73296CBC235F63C6007ED4B9 /* EOCEmployeeDesigner.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C75235F63C5007ED4B9 /* EOCEmployeeDesigner.h */; };
+		73296CBD235F63C6007ED4B9 /* EOCEmployeeDeveloper.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C76235F63C5007ED4B9 /* EOCEmployeeDeveloper.m */; };
+		73296CBE235F63C6007ED4B9 /* EOCEmployee.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C77235F63C5007ED4B9 /* EOCEmployee.h */; };
+		73296CBF235F63C6007ED4B9 /* EOCEmployeeFinance.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C78235F63C5007ED4B9 /* EOCEmployeeFinance.h */; };
+		73296CC0235F63C6007ED4B9 /* EOCEmployeeDesigner.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C79235F63C5007ED4B9 /* EOCEmployeeDesigner.m */; };
+		73296CC1235F63C6007ED4B9 /* EOCEmployee.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C7A235F63C5007ED4B9 /* EOCEmployee.m */; };
+		73296CC2235F63C6007ED4B9 /* EOCEmployeeDeveloper.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C7B235F63C5007ED4B9 /* EOCEmployeeDeveloper.h */; };
+		73296CC3235F63C6007ED4B9 /* EOCEmployeeFinance.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C7C235F63C5007ED4B9 /* EOCEmployeeFinance.m */; };
+		73296CC4235F63C6007ED4B9 /* EOCEnum.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C7E235F63C5007ED4B9 /* EOCEnum.h */; };
+		73296CC5235F63C6007ED4B9 /* EOCEnum.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C7F235F63C5007ED4B9 /* EOCEnum.m */; };
+		73296CC6235F63C6007ED4B9 /* EOCPerson8.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C81235F63C5007ED4B9 /* EOCPerson8.m */; };
+		73296CC7235F63C6007ED4B9 /* EOCPerson8.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C82235F63C5007ED4B9 /* EOCPerson8.h */; };
+		73296CC8235F63C6007ED4B9 /* EOCDataModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C84235F63C5007ED4B9 /* EOCDataModel.m */; };
+		73296CC9235F63C6007ED4B9 /* EOCNetworkFetcher.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C85235F63C5007ED4B9 /* EOCNetworkFetcher.m */; };
+		73296CCA235F63C6007ED4B9 /* EOCNetworkFetcherDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C86235F63C5007ED4B9 /* EOCNetworkFetcherDelegate.h */; };
+		73296CCB235F63C6007ED4B9 /* EOCDataModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C87235F63C5007ED4B9 /* EOCDataModel.h */; };
+		73296CCC235F63C6007ED4B9 /* EOCNetworkFetcher.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C88235F63C5007ED4B9 /* EOCNetworkFetcher.h */; };
+		73296CCD235F63C6007ED4B9 /* EOCSuperSecretClass.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C8A235F63C5007ED4B9 /* EOCSuperSecretClass.h */; };
+		73296CCE235F63C6007ED4B9 /* EOCPerson_27.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C8B235F63C5007ED4B9 /* EOCPerson_27.m */; };
+		73296CCF235F63C6007ED4B9 /* EOCPerson+Extension.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C8C235F63C5007ED4B9 /* EOCPerson+Extension.h */; };
+		73296CD0235F63C6007ED4B9 /* EOCSecretDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C8D235F63C5007ED4B9 /* EOCSecretDelegate.h */; };
+		73296CD1235F63C6007ED4B9 /* EOCClass.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C8E235F63C5007ED4B9 /* EOCClass.h */; };
+		73296CD2235F63C6007ED4B9 /* EOCPerson_27.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C8F235F63C5007ED4B9 /* EOCPerson_27.h */; };
+		73296CD3235F63C6007ED4B9 /* EOCSuperSecretClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C90235F63C5007ED4B9 /* EOCSuperSecretClass.m */; };
+		73296CD4235F63C6007ED4B9 /* EOCClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C91235F63C5007ED4B9 /* EOCClass.m */; };
+		73296CD5235F63C6007ED4B9 /* EOCPerson.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C93235F63C6007ED4B9 /* EOCPerson.m */; };
+		73296CD6235F63C6007ED4B9 /* EOCPerson+Methods.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C94235F63C6007ED4B9 /* EOCPerson+Methods.m */; };
+		73296CD7235F63C6007ED4B9 /* EOCPerson+Methods.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C95235F63C6007ED4B9 /* EOCPerson+Methods.h */; };
+		73296CD8235F63C6007ED4B9 /* EOCPerson.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C96235F63C6007ED4B9 /* EOCPerson.h */; };
+		73296CD9235F63C6007ED4B9 /* EOCPerson_6_1.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C98235F63C6007ED4B9 /* EOCPerson_6_1.m */; };
+		73296CDA235F63C6007ED4B9 /* EOCPerson_6.m in Sources */ = {isa = PBXBuildFile; fileRef = 73296C99235F63C6007ED4B9 /* EOCPerson_6.m */; };
+		73296CDB235F63C6007ED4B9 /* EOCPerson_6_1.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C9A235F63C6007ED4B9 /* EOCPerson_6_1.h */; };
+		73296CDC235F63C6007ED4B9 /* EOCPerson_6.h in Headers */ = {isa = PBXBuildFile; fileRef = 73296C9B235F63C6007ED4B9 /* EOCPerson_6.h */; };
 		7796B04E84E4989C28E81D2D7DC6D012 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BD4ED544B638D07C7D755AF1C27116A /* Foundation.framework */; };
 		7A1A31D83682569B4602D31092D8EFD1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7BD4ED544B638D07C7D755AF1C27116A /* Foundation.framework */; };
 		88396E68DC05A379282F3B374F75F43C /* FBSnapshotTestController.m in Sources */ = {isa = PBXBuildFile; fileRef = DE35F81C954881204729C569018D98C0 /* FBSnapshotTestController.m */; };
@@ -102,6 +167,71 @@
 		73296C44235F631E007ED4B9 /* EffectiveListController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = EffectiveListController.m; path = LGEffective/Classes/EffectiveListController.m; sourceTree = "<group>"; };
 		73296C45235F631E007ED4B9 /* EffectiveDetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = EffectiveDetailController.h; path = LGEffective/Classes/EffectiveDetailController.h; sourceTree = "<group>"; };
 		73296C46235F631E007ED4B9 /* EffectiveDetailController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = EffectiveDetailController.m; path = LGEffective/Classes/EffectiveDetailController.m; sourceTree = "<group>"; };
+		73296C4C235F63C4007ED4B9 /* EOCMyAlert.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCMyAlert.m; sourceTree = "<group>"; };
+		73296C4D235F63C4007ED4B9 /* EOCMyAlert.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCMyAlert.h; sourceTree = "<group>"; };
+		73296C4F235F63C4007ED4B9 /* EOCAutoDictionary.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCAutoDictionary.m; sourceTree = "<group>"; };
+		73296C50235F63C4007ED4B9 /* EOCAutoDictionary.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCAutoDictionary.h; sourceTree = "<group>"; };
+		73296C52235F63C4007ED4B9 /* EOCAnimatedView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCAnimatedView.h; sourceTree = "<group>"; };
+		73296C53235F63C4007ED4B9 /* EOCLoginManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCLoginManager.m; sourceTree = "<group>"; };
+		73296C54235F63C4007ED4B9 /* EOCAnimatedView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCAnimatedView.m; sourceTree = "<group>"; };
+		73296C55235F63C4007ED4B9 /* EOCLoginManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCLoginManager.h; sourceTree = "<group>"; };
+		73296C57235F63C4007ED4B9 /* NSCalendar+EOC_Additions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSCalendar+EOC_Additions.h"; sourceTree = "<group>"; };
+		73296C58235F63C4007ED4B9 /* EOCPerson+Friendship.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "EOCPerson+Friendship.m"; sourceTree = "<group>"; };
+		73296C59235F63C4007ED4B9 /* EOCPerson+Friendship.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "EOCPerson+Friendship.h"; sourceTree = "<group>"; };
+		73296C5A235F63C4007ED4B9 /* NSCalendar+EOC_Additions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSCalendar+EOC_Additions.m"; sourceTree = "<group>"; };
+		73296C5C235F63C5007ED4B9 /* EOCPerson_2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCPerson_2.m; sourceTree = "<group>"; };
+		73296C5D235F63C5007ED4B9 /* EOCEmployer_2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCEmployer_2.m; sourceTree = "<group>"; };
+		73296C5E235F63C5007ED4B9 /* EOCPerson_2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCPerson_2.h; sourceTree = "<group>"; };
+		73296C5F235F63C5007ED4B9 /* EOCEmployer_2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCEmployer_2.h; sourceTree = "<group>"; };
+		73296C61235F63C5007ED4B9 /* EOCLiterals.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCLiterals.h; sourceTree = "<group>"; };
+		73296C62235F63C5007ED4B9 /* EOCLiterals.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCLiterals.m; sourceTree = "<group>"; };
+		73296C64235F63C5007ED4B9 /* EOCSmithPerson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCSmithPerson.h; sourceTree = "<group>"; };
+		73296C65235F63C5007ED4B9 /* EOCPerson_7.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCPerson_7.h; sourceTree = "<group>"; };
+		73296C66235F63C5007ED4B9 /* EOCBrain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCBrain.h; sourceTree = "<group>"; };
+		73296C67235F63C5007ED4B9 /* Brain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Brain.h; sourceTree = "<group>"; };
+		73296C68235F63C5007ED4B9 /* EOCBrain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCBrain.m; sourceTree = "<group>"; };
+		73296C69235F63C5007ED4B9 /* EOCPerson_7.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCPerson_7.m; sourceTree = "<group>"; };
+		73296C6A235F63C5007ED4B9 /* EOCSmithPerson.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCSmithPerson.m; sourceTree = "<group>"; };
+		73296C6C235F63C5007ED4B9 /* NSString+ABC_HTTP.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+ABC_HTTP.m"; sourceTree = "<group>"; };
+		73296C6D235F63C5007ED4B9 /* NSString+HTTP.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+HTTP.h"; sourceTree = "<group>"; };
+		73296C6E235F63C5007ED4B9 /* NSString+ABC_HTTP.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+ABC_HTTP.h"; sourceTree = "<group>"; };
+		73296C6F235F63C5007ED4B9 /* NSString+HTTP.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+HTTP.m"; sourceTree = "<group>"; };
+		73296C71235F63C5007ED4B9 /* EOCDatabaseConnection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCDatabaseConnection.h; sourceTree = "<group>"; };
+		73296C72235F63C5007ED4B9 /* EOCDatabaseManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCDatabaseManager.h; sourceTree = "<group>"; };
+		73296C73235F63C5007ED4B9 /* EOCDatabaseManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCDatabaseManager.m; sourceTree = "<group>"; };
+		73296C75235F63C5007ED4B9 /* EOCEmployeeDesigner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCEmployeeDesigner.h; sourceTree = "<group>"; };
+		73296C76235F63C5007ED4B9 /* EOCEmployeeDeveloper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCEmployeeDeveloper.m; sourceTree = "<group>"; };
+		73296C77235F63C5007ED4B9 /* EOCEmployee.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCEmployee.h; sourceTree = "<group>"; };
+		73296C78235F63C5007ED4B9 /* EOCEmployeeFinance.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCEmployeeFinance.h; sourceTree = "<group>"; };
+		73296C79235F63C5007ED4B9 /* EOCEmployeeDesigner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCEmployeeDesigner.m; sourceTree = "<group>"; };
+		73296C7A235F63C5007ED4B9 /* EOCEmployee.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCEmployee.m; sourceTree = "<group>"; };
+		73296C7B235F63C5007ED4B9 /* EOCEmployeeDeveloper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCEmployeeDeveloper.h; sourceTree = "<group>"; };
+		73296C7C235F63C5007ED4B9 /* EOCEmployeeFinance.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCEmployeeFinance.m; sourceTree = "<group>"; };
+		73296C7E235F63C5007ED4B9 /* EOCEnum.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCEnum.h; sourceTree = "<group>"; };
+		73296C7F235F63C5007ED4B9 /* EOCEnum.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCEnum.m; sourceTree = "<group>"; };
+		73296C81235F63C5007ED4B9 /* EOCPerson8.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCPerson8.m; sourceTree = "<group>"; };
+		73296C82235F63C5007ED4B9 /* EOCPerson8.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCPerson8.h; sourceTree = "<group>"; };
+		73296C84235F63C5007ED4B9 /* EOCDataModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCDataModel.m; sourceTree = "<group>"; };
+		73296C85235F63C5007ED4B9 /* EOCNetworkFetcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCNetworkFetcher.m; sourceTree = "<group>"; };
+		73296C86235F63C5007ED4B9 /* EOCNetworkFetcherDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCNetworkFetcherDelegate.h; sourceTree = "<group>"; };
+		73296C87235F63C5007ED4B9 /* EOCDataModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCDataModel.h; sourceTree = "<group>"; };
+		73296C88235F63C5007ED4B9 /* EOCNetworkFetcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCNetworkFetcher.h; sourceTree = "<group>"; };
+		73296C8A235F63C5007ED4B9 /* EOCSuperSecretClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCSuperSecretClass.h; sourceTree = "<group>"; };
+		73296C8B235F63C5007ED4B9 /* EOCPerson_27.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCPerson_27.m; sourceTree = "<group>"; };
+		73296C8C235F63C5007ED4B9 /* EOCPerson+Extension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "EOCPerson+Extension.h"; sourceTree = "<group>"; };
+		73296C8D235F63C5007ED4B9 /* EOCSecretDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCSecretDelegate.h; sourceTree = "<group>"; };
+		73296C8E235F63C5007ED4B9 /* EOCClass.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCClass.h; sourceTree = "<group>"; };
+		73296C8F235F63C5007ED4B9 /* EOCPerson_27.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCPerson_27.h; sourceTree = "<group>"; };
+		73296C90235F63C5007ED4B9 /* EOCSuperSecretClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCSuperSecretClass.m; sourceTree = "<group>"; };
+		73296C91235F63C5007ED4B9 /* EOCClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCClass.m; sourceTree = "<group>"; };
+		73296C93235F63C6007ED4B9 /* EOCPerson.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCPerson.m; sourceTree = "<group>"; };
+		73296C94235F63C6007ED4B9 /* EOCPerson+Methods.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "EOCPerson+Methods.m"; sourceTree = "<group>"; };
+		73296C95235F63C6007ED4B9 /* EOCPerson+Methods.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "EOCPerson+Methods.h"; sourceTree = "<group>"; };
+		73296C96235F63C6007ED4B9 /* EOCPerson.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCPerson.h; sourceTree = "<group>"; };
+		73296C98235F63C6007ED4B9 /* EOCPerson_6_1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCPerson_6_1.m; sourceTree = "<group>"; };
+		73296C99235F63C6007ED4B9 /* EOCPerson_6.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EOCPerson_6.m; sourceTree = "<group>"; };
+		73296C9A235F63C6007ED4B9 /* EOCPerson_6_1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCPerson_6_1.h; sourceTree = "<group>"; };
+		73296C9B235F63C6007ED4B9 /* EOCPerson_6.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EOCPerson_6.h; sourceTree = "<group>"; };
 		7412B788A1D68E39B1FEFFA83B7F2CD6 /* Pods-LGEffective_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-LGEffective_Tests-umbrella.h"; sourceTree = "<group>"; };
 		746CC9C9E1B0E104CD1BA120C69A2526 /* FBSnapshotTestCase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FBSnapshotTestCase-prefix.pch"; sourceTree = "<group>"; };
 		779AB927DCE516A78E142D65649404C9 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = LGEffective/Classes/ReplaceMe.m; sourceTree = "<group>"; };
@@ -220,11 +350,27 @@
 		583D695D93BAFC326E7FB2C06AEF6AB7 /* LGEffective */ = {
 			isa = PBXGroup;
 			children = (
+				73296C3E235F5F0C007ED4B9 /* 第1条了解OC起源 */,
+				73296C5B235F63C5007ED4B9 /* 第2条类头文件尽量少导入其他头文件 */,
+				73296C60235F63C5007ED4B9 /* 第3条多用字面量语法，少用与之等价的方法 */,
+				73296C51235F63C4007ED4B9 /* 第4条多用类型常量，少用#define预处理指令 */,
+				73296C7D235F63C5007ED4B9 /* 第5条用枚举表示状态、选项、状态码 */,
+				73296C97235F63C6007ED4B9 /* 第6条理解"属性"概念 */,
+				73296C63235F63C5007ED4B9 /* 第7条对象内部尽量直接访问实例变量 */,
+				73296C80235F63C5007ED4B9 /* 第8条理解“对象等同性” */,
+				73296C74235F63C5007ED4B9 /* 第9条以“类族模式”隐藏实现细节 */,
+				73296C4B235F63C4007ED4B9 /* 第10条在即有类中使用关联对象存放自定义数据 */,
+				73296C4E235F63C4007ED4B9 /* 第11条理解objc_msgSend的作用 */,
+				73296C83235F63C5007ED4B9 /* 第23条CategorAndProtocol */,
+				73296C92235F63C6007ED4B9 /* 第24条将类的实现代码分散到便于管理的多个分类中 */,
+				73296C6B235F63C5007ED4B9 /* 第25条总是为第三方类的分类增加前缀 */,
+				73296C56235F63C4007ED4B9 /* 第26条勿在分类中声明属性 */,
+				73296C89235F63C5007ED4B9 /* 第27条使用class-continuation分类隐藏实现细节 */,
+				73296C70235F63C5007ED4B9 /* 第28 条通过协议通过匿名对象 */,
 				73296C45235F631E007ED4B9 /* EffectiveDetailController.h */,
 				73296C46235F631E007ED4B9 /* EffectiveDetailController.m */,
 				73296C43235F631D007ED4B9 /* EffectiveListController.h */,
 				73296C44235F631E007ED4B9 /* EffectiveListController.m */,
-				73296C3E235F5F0C007ED4B9 /* 第1条了解OC起源 */,
 				779AB927DCE516A78E142D65649404C9 /* ReplaceMe.m */,
 				51FE229D56A0A94BCADEAF0B89971DFA /* Pod */,
 				7A99449F22BD1B4FAE1C0D2982834A0B /* Support Files */,
@@ -241,6 +387,199 @@
 			);
 			name = "第1条了解OC起源";
 			path = "LGEffective/Classes/第1条了解OC起源";
+			sourceTree = "<group>";
+		};
+		73296C4B235F63C4007ED4B9 /* 第10条在即有类中使用关联对象存放自定义数据 */ = {
+			isa = PBXGroup;
+			children = (
+				73296C4C235F63C4007ED4B9 /* EOCMyAlert.m */,
+				73296C4D235F63C4007ED4B9 /* EOCMyAlert.h */,
+			);
+			name = "第10条在即有类中使用关联对象存放自定义数据";
+			path = "LGEffective/Classes/第10条在即有类中使用关联对象存放自定义数据";
+			sourceTree = "<group>";
+		};
+		73296C4E235F63C4007ED4B9 /* 第11条理解objc_msgSend的作用 */ = {
+			isa = PBXGroup;
+			children = (
+				73296C4F235F63C4007ED4B9 /* EOCAutoDictionary.m */,
+				73296C50235F63C4007ED4B9 /* EOCAutoDictionary.h */,
+			);
+			name = "第11条理解objc_msgSend的作用";
+			path = "LGEffective/Classes/第11条理解objc_msgSend的作用";
+			sourceTree = "<group>";
+		};
+		73296C51235F63C4007ED4B9 /* 第4条多用类型常量，少用#define预处理指令 */ = {
+			isa = PBXGroup;
+			children = (
+				73296C52235F63C4007ED4B9 /* EOCAnimatedView.h */,
+				73296C53235F63C4007ED4B9 /* EOCLoginManager.m */,
+				73296C54235F63C4007ED4B9 /* EOCAnimatedView.m */,
+				73296C55235F63C4007ED4B9 /* EOCLoginManager.h */,
+			);
+			name = "第4条多用类型常量，少用#define预处理指令";
+			path = "LGEffective/Classes/第4条多用类型常量，少用#define预处理指令";
+			sourceTree = "<group>";
+		};
+		73296C56235F63C4007ED4B9 /* 第26条勿在分类中声明属性 */ = {
+			isa = PBXGroup;
+			children = (
+				73296C57235F63C4007ED4B9 /* NSCalendar+EOC_Additions.h */,
+				73296C58235F63C4007ED4B9 /* EOCPerson+Friendship.m */,
+				73296C59235F63C4007ED4B9 /* EOCPerson+Friendship.h */,
+				73296C5A235F63C4007ED4B9 /* NSCalendar+EOC_Additions.m */,
+			);
+			name = "第26条勿在分类中声明属性";
+			path = "LGEffective/Classes/第26条勿在分类中声明属性";
+			sourceTree = "<group>";
+		};
+		73296C5B235F63C5007ED4B9 /* 第2条类头文件尽量少导入其他头文件 */ = {
+			isa = PBXGroup;
+			children = (
+				73296C5C235F63C5007ED4B9 /* EOCPerson_2.m */,
+				73296C5D235F63C5007ED4B9 /* EOCEmployer_2.m */,
+				73296C5E235F63C5007ED4B9 /* EOCPerson_2.h */,
+				73296C5F235F63C5007ED4B9 /* EOCEmployer_2.h */,
+			);
+			name = "第2条类头文件尽量少导入其他头文件";
+			path = "LGEffective/Classes/第2条类头文件尽量少导入其他头文件";
+			sourceTree = "<group>";
+		};
+		73296C60235F63C5007ED4B9 /* 第3条多用字面量语法，少用与之等价的方法 */ = {
+			isa = PBXGroup;
+			children = (
+				73296C61235F63C5007ED4B9 /* EOCLiterals.h */,
+				73296C62235F63C5007ED4B9 /* EOCLiterals.m */,
+			);
+			name = "第3条多用字面量语法，少用与之等价的方法";
+			path = "LGEffective/Classes/第3条多用字面量语法，少用与之等价的方法";
+			sourceTree = "<group>";
+		};
+		73296C63235F63C5007ED4B9 /* 第7条对象内部尽量直接访问实例变量 */ = {
+			isa = PBXGroup;
+			children = (
+				73296C64235F63C5007ED4B9 /* EOCSmithPerson.h */,
+				73296C65235F63C5007ED4B9 /* EOCPerson_7.h */,
+				73296C66235F63C5007ED4B9 /* EOCBrain.h */,
+				73296C67235F63C5007ED4B9 /* Brain.h */,
+				73296C68235F63C5007ED4B9 /* EOCBrain.m */,
+				73296C69235F63C5007ED4B9 /* EOCPerson_7.m */,
+				73296C6A235F63C5007ED4B9 /* EOCSmithPerson.m */,
+			);
+			name = "第7条对象内部尽量直接访问实例变量";
+			path = "LGEffective/Classes/第7条对象内部尽量直接访问实例变量";
+			sourceTree = "<group>";
+		};
+		73296C6B235F63C5007ED4B9 /* 第25条总是为第三方类的分类增加前缀 */ = {
+			isa = PBXGroup;
+			children = (
+				73296C6C235F63C5007ED4B9 /* NSString+ABC_HTTP.m */,
+				73296C6D235F63C5007ED4B9 /* NSString+HTTP.h */,
+				73296C6E235F63C5007ED4B9 /* NSString+ABC_HTTP.h */,
+				73296C6F235F63C5007ED4B9 /* NSString+HTTP.m */,
+			);
+			name = "第25条总是为第三方类的分类增加前缀";
+			path = "LGEffective/Classes/第25条总是为第三方类的分类增加前缀";
+			sourceTree = "<group>";
+		};
+		73296C70235F63C5007ED4B9 /* 第28 条通过协议通过匿名对象 */ = {
+			isa = PBXGroup;
+			children = (
+				73296C71235F63C5007ED4B9 /* EOCDatabaseConnection.h */,
+				73296C72235F63C5007ED4B9 /* EOCDatabaseManager.h */,
+				73296C73235F63C5007ED4B9 /* EOCDatabaseManager.m */,
+			);
+			name = "第28 条通过协议通过匿名对象";
+			path = "LGEffective/Classes/第28 条通过协议通过匿名对象";
+			sourceTree = "<group>";
+		};
+		73296C74235F63C5007ED4B9 /* 第9条以“类族模式”隐藏实现细节 */ = {
+			isa = PBXGroup;
+			children = (
+				73296C75235F63C5007ED4B9 /* EOCEmployeeDesigner.h */,
+				73296C76235F63C5007ED4B9 /* EOCEmployeeDeveloper.m */,
+				73296C77235F63C5007ED4B9 /* EOCEmployee.h */,
+				73296C78235F63C5007ED4B9 /* EOCEmployeeFinance.h */,
+				73296C79235F63C5007ED4B9 /* EOCEmployeeDesigner.m */,
+				73296C7A235F63C5007ED4B9 /* EOCEmployee.m */,
+				73296C7B235F63C5007ED4B9 /* EOCEmployeeDeveloper.h */,
+				73296C7C235F63C5007ED4B9 /* EOCEmployeeFinance.m */,
+			);
+			name = "第9条以“类族模式”隐藏实现细节";
+			path = "LGEffective/Classes/第9条以“类族模式”隐藏实现细节";
+			sourceTree = "<group>";
+		};
+		73296C7D235F63C5007ED4B9 /* 第5条用枚举表示状态、选项、状态码 */ = {
+			isa = PBXGroup;
+			children = (
+				73296C7E235F63C5007ED4B9 /* EOCEnum.h */,
+				73296C7F235F63C5007ED4B9 /* EOCEnum.m */,
+			);
+			name = "第5条用枚举表示状态、选项、状态码";
+			path = "LGEffective/Classes/第5条用枚举表示状态、选项、状态码";
+			sourceTree = "<group>";
+		};
+		73296C80235F63C5007ED4B9 /* 第8条理解“对象等同性” */ = {
+			isa = PBXGroup;
+			children = (
+				73296C81235F63C5007ED4B9 /* EOCPerson8.m */,
+				73296C82235F63C5007ED4B9 /* EOCPerson8.h */,
+			);
+			name = "第8条理解“对象等同性”";
+			path = "LGEffective/Classes/第8条理解“对象等同性”";
+			sourceTree = "<group>";
+		};
+		73296C83235F63C5007ED4B9 /* 第23条CategorAndProtocol */ = {
+			isa = PBXGroup;
+			children = (
+				73296C84235F63C5007ED4B9 /* EOCDataModel.m */,
+				73296C85235F63C5007ED4B9 /* EOCNetworkFetcher.m */,
+				73296C86235F63C5007ED4B9 /* EOCNetworkFetcherDelegate.h */,
+				73296C87235F63C5007ED4B9 /* EOCDataModel.h */,
+				73296C88235F63C5007ED4B9 /* EOCNetworkFetcher.h */,
+			);
+			name = "第23条CategorAndProtocol";
+			path = "LGEffective/Classes/第23条CategorAndProtocol";
+			sourceTree = "<group>";
+		};
+		73296C89235F63C5007ED4B9 /* 第27条使用class-continuation分类隐藏实现细节 */ = {
+			isa = PBXGroup;
+			children = (
+				73296C8A235F63C5007ED4B9 /* EOCSuperSecretClass.h */,
+				73296C8B235F63C5007ED4B9 /* EOCPerson_27.m */,
+				73296C8C235F63C5007ED4B9 /* EOCPerson+Extension.h */,
+				73296C8D235F63C5007ED4B9 /* EOCSecretDelegate.h */,
+				73296C8E235F63C5007ED4B9 /* EOCClass.h */,
+				73296C8F235F63C5007ED4B9 /* EOCPerson_27.h */,
+				73296C90235F63C5007ED4B9 /* EOCSuperSecretClass.m */,
+				73296C91235F63C5007ED4B9 /* EOCClass.m */,
+			);
+			name = "第27条使用class-continuation分类隐藏实现细节";
+			path = "LGEffective/Classes/第27条使用class-continuation分类隐藏实现细节";
+			sourceTree = "<group>";
+		};
+		73296C92235F63C6007ED4B9 /* 第24条将类的实现代码分散到便于管理的多个分类中 */ = {
+			isa = PBXGroup;
+			children = (
+				73296C93235F63C6007ED4B9 /* EOCPerson.m */,
+				73296C94235F63C6007ED4B9 /* EOCPerson+Methods.m */,
+				73296C95235F63C6007ED4B9 /* EOCPerson+Methods.h */,
+				73296C96235F63C6007ED4B9 /* EOCPerson.h */,
+			);
+			name = "第24条将类的实现代码分散到便于管理的多个分类中";
+			path = "LGEffective/Classes/第24条将类的实现代码分散到便于管理的多个分类中";
+			sourceTree = "<group>";
+		};
+		73296C97235F63C6007ED4B9 /* 第6条理解"属性"概念 */ = {
+			isa = PBXGroup;
+			children = (
+				73296C98235F63C6007ED4B9 /* EOCPerson_6_1.m */,
+				73296C99235F63C6007ED4B9 /* EOCPerson_6.m */,
+				73296C9A235F63C6007ED4B9 /* EOCPerson_6_1.h */,
+				73296C9B235F63C6007ED4B9 /* EOCPerson_6.h */,
+			);
+			name = "第6条理解\"属性\"概念";
+			path = "LGEffective/Classes/第6条理解\"属性\"概念";
 			sourceTree = "<group>";
 		};
 		7A99449F22BD1B4FAE1C0D2982834A0B /* Support Files */ = {
@@ -389,15 +728,50 @@
 			files = (
 				73296C49235F631E007ED4B9 /* EffectiveDetailController.h in Headers */,
 				F720FAF13A108CE6901E0A8B0580E1E8 /* FBSnapshotTestCase-umbrella.h in Headers */,
+				73296CC7235F63C6007ED4B9 /* EOCPerson8.h in Headers */,
+				73296CA0235F63C6007ED4B9 /* EOCAnimatedView.h in Headers */,
 				00224C929D57F45B70E87359E719948D /* FBSnapshotTestCase.h in Headers */,
+				73296C9F235F63C6007ED4B9 /* EOCAutoDictionary.h in Headers */,
+				73296CB6235F63C6007ED4B9 /* NSString+HTTP.h in Headers */,
+				73296CA3235F63C6007ED4B9 /* EOCLoginManager.h in Headers */,
+				73296CAC235F63C6007ED4B9 /* EOCLiterals.h in Headers */,
+				73296CCD235F63C6007ED4B9 /* EOCSuperSecretClass.h in Headers */,
+				73296CAE235F63C6007ED4B9 /* EOCSmithPerson.h in Headers */,
+				73296CC2235F63C6007ED4B9 /* EOCEmployeeDeveloper.h in Headers */,
 				73296C47235F631E007ED4B9 /* EffectiveListController.h in Headers */,
+				73296CB1235F63C6007ED4B9 /* Brain.h in Headers */,
 				C49D52712466511E332C952834C81FE1 /* FBSnapshotTestCasePlatform.h in Headers */,
+				73296CCB235F63C6007ED4B9 /* EOCDataModel.h in Headers */,
+				73296CCF235F63C6007ED4B9 /* EOCPerson+Extension.h in Headers */,
+				73296CD0235F63C6007ED4B9 /* EOCSecretDelegate.h in Headers */,
+				73296CC4235F63C6007ED4B9 /* EOCEnum.h in Headers */,
+				73296CBE235F63C6007ED4B9 /* EOCEmployee.h in Headers */,
+				73296CDC235F63C6007ED4B9 /* EOCPerson_6.h in Headers */,
 				90142C6259374E18E640396A59AD379A /* FBSnapshotTestController.h in Headers */,
 				40039E0AF0D764360B1D4FC4F7950D2E /* UIApplication+StrictKeyWindow.h in Headers */,
+				73296CD7235F63C6007ED4B9 /* EOCPerson+Methods.h in Headers */,
+				73296CD8235F63C6007ED4B9 /* EOCPerson.h in Headers */,
+				73296C9D235F63C6007ED4B9 /* EOCMyAlert.h in Headers */,
+				73296CB7235F63C6007ED4B9 /* NSString+ABC_HTTP.h in Headers */,
+				73296CA4235F63C6007ED4B9 /* NSCalendar+EOC_Additions.h in Headers */,
 				F1AAAE00BB32B733B238E2B4E8424506 /* UIImage+Compare.h in Headers */,
+				73296CD1235F63C6007ED4B9 /* EOCClass.h in Headers */,
 				73296C42235F5F0C007ED4B9 /* EOCOrigin.h in Headers */,
+				73296CD2235F63C6007ED4B9 /* EOCPerson_27.h in Headers */,
 				D04AAC8B22E4A4DC4F39891C4E52F251 /* UIImage+Diff.h in Headers */,
 				B74CD6E6EBEA0B642776BCB37850415D /* UIImage+Snapshot.h in Headers */,
+				73296CAB235F63C6007ED4B9 /* EOCEmployer_2.h in Headers */,
+				73296CCC235F63C6007ED4B9 /* EOCNetworkFetcher.h in Headers */,
+				73296CBF235F63C6007ED4B9 /* EOCEmployeeFinance.h in Headers */,
+				73296CAA235F63C6007ED4B9 /* EOCPerson_2.h in Headers */,
+				73296CB9235F63C6007ED4B9 /* EOCDatabaseConnection.h in Headers */,
+				73296CA6235F63C6007ED4B9 /* EOCPerson+Friendship.h in Headers */,
+				73296CBC235F63C6007ED4B9 /* EOCEmployeeDesigner.h in Headers */,
+				73296CBA235F63C6007ED4B9 /* EOCDatabaseManager.h in Headers */,
+				73296CB0235F63C6007ED4B9 /* EOCBrain.h in Headers */,
+				73296CAF235F63C6007ED4B9 /* EOCPerson_7.h in Headers */,
+				73296CCA235F63C6007ED4B9 /* EOCNetworkFetcherDelegate.h in Headers */,
+				73296CDB235F63C6007ED4B9 /* EOCPerson_6_1.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -585,18 +959,48 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				73296CAD235F63C6007ED4B9 /* EOCLiterals.m in Sources */,
+				73296CD3235F63C6007ED4B9 /* EOCSuperSecretClass.m in Sources */,
+				73296CC8235F63C6007ED4B9 /* EOCDataModel.m in Sources */,
+				73296CD9235F63C6007ED4B9 /* EOCPerson_6_1.m in Sources */,
 				6DBC8EB7532E931C2FBDA71D1E0B66A4 /* FBSnapshotTestCase-dummy.m in Sources */,
+				73296CD5235F63C6007ED4B9 /* EOCPerson.m in Sources */,
+				73296CC3235F63C6007ED4B9 /* EOCEmployeeFinance.m in Sources */,
+				73296CA5235F63C6007ED4B9 /* EOCPerson+Friendship.m in Sources */,
+				73296CA2235F63C6007ED4B9 /* EOCAnimatedView.m in Sources */,
 				8CE3BF0ACE07EA42DD5DAC871BF4B767 /* FBSnapshotTestCase.m in Sources */,
+				73296CA7235F63C6007ED4B9 /* NSCalendar+EOC_Additions.m in Sources */,
+				73296C9C235F63C6007ED4B9 /* EOCMyAlert.m in Sources */,
 				E8AC509D18EBF21B1FEA909652A01108 /* FBSnapshotTestCasePlatform.m in Sources */,
+				73296CDA235F63C6007ED4B9 /* EOCPerson_6.m in Sources */,
+				73296CC6235F63C6007ED4B9 /* EOCPerson8.m in Sources */,
+				73296CA9235F63C6007ED4B9 /* EOCEmployer_2.m in Sources */,
 				88396E68DC05A379282F3B374F75F43C /* FBSnapshotTestController.m in Sources */,
+				73296CD4235F63C6007ED4B9 /* EOCClass.m in Sources */,
+				73296CBD235F63C6007ED4B9 /* EOCEmployeeDeveloper.m in Sources */,
+				73296CB3235F63C6007ED4B9 /* EOCPerson_7.m in Sources */,
+				73296CA1235F63C6007ED4B9 /* EOCLoginManager.m in Sources */,
+				73296CA8235F63C6007ED4B9 /* EOCPerson_2.m in Sources */,
 				9D65089019D558E5A9661F2DCAD20313 /* SwiftSupport.swift in Sources */,
+				73296CC5235F63C6007ED4B9 /* EOCEnum.m in Sources */,
+				73296CB4235F63C6007ED4B9 /* EOCSmithPerson.m in Sources */,
+				73296CB5235F63C6007ED4B9 /* NSString+ABC_HTTP.m in Sources */,
+				73296C9E235F63C6007ED4B9 /* EOCAutoDictionary.m in Sources */,
 				11C410135C7E89353B480AC8DE0BFB77 /* UIApplication+StrictKeyWindow.m in Sources */,
 				2DCFF0CE0BD295F1D46D3247F36B192C /* UIImage+Compare.m in Sources */,
+				73296CBB235F63C6007ED4B9 /* EOCDatabaseManager.m in Sources */,
+				73296CB8235F63C6007ED4B9 /* NSString+HTTP.m in Sources */,
 				14AD81D52FAD9CF2C065C61FB00C3B4F /* UIImage+Diff.m in Sources */,
 				A525E29E0A8079B35B793D8A2B5FBDF2 /* UIImage+Snapshot.m in Sources */,
+				73296CB2235F63C6007ED4B9 /* EOCBrain.m in Sources */,
+				73296CC9235F63C6007ED4B9 /* EOCNetworkFetcher.m in Sources */,
 				73296C48235F631E007ED4B9 /* EffectiveListController.m in Sources */,
 				73296C4A235F631E007ED4B9 /* EffectiveDetailController.m in Sources */,
+				73296CD6235F63C6007ED4B9 /* EOCPerson+Methods.m in Sources */,
+				73296CC1235F63C6007ED4B9 /* EOCEmployee.m in Sources */,
 				73296C41235F5F0C007ED4B9 /* EOCOrigin.m in Sources */,
+				73296CC0235F63C6007ED4B9 /* EOCEmployeeDesigner.m in Sources */,
+				73296CCE235F63C6007ED4B9 /* EOCPerson_27.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
